@@ -66,11 +66,11 @@ public class View {
         container.add(lbCopyright);
 
         tfInputPort = new JTextField("3000");
-        tfInputPort.setBounds(81, 29, 120, 21);
+        tfInputPort.setBounds(98, 29, 120, 21);
         container.add(tfInputPort);
         tfInputPort.setColumns(10);
 
-        lbPort = new JLabel("IP");
+        lbPort = new JLabel("Port");
         lbPort.setFont(new Font("Arial", Font.BOLD, 14));
         lbPort.setBounds(58, 30, 46, 20);
         container.add(lbPort);
