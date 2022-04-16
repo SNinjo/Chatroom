@@ -1,5 +1,3 @@
-# Chatroom
-
 ## Operating Manual
 
 ### step 1
