@@ -1,4 +1,17 @@
-## Operating Manual
+# Chatroom
+develops a multiplayer chatroom to research internet protocol(TCP/ IP), socket, and thread
+
+## Operating Example
+open the server and let the client connect
+![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts01.png)
+  
+enter the messages or let the client disconnect
+![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts02.png)
+  
+this is  result
+![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts03.png)
+
+## Installation
 
 ### step 1
 &emsp;&emsp;import this code to your IDE (Eclipse, Intellj, etc)
