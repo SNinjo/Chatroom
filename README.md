@@ -1,5 +1,5 @@
 # Chatroom
-It's a multiplayer chatroom to research internet protocol(TCP/ IP), socket, and thread
+developed a multiplayer chatroom to research internet protocol(TCP/ IP), socket, and thread
 
 ## Operating Example
 open the server and let the client connect
