@@ -8,7 +8,7 @@ open the server and let the client connect
 enter the messages or let the client disconnect
 ![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts02.png)
   
-this is  result
+this is the result
 ![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts03.png)
 
 ## Installation
