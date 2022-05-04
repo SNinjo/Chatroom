@@ -1,15 +1,19 @@
 # Chatroom
 developed a multiplayer chatroom to research internet protocol(TCP/ IP), socket, and thread
 
+## DEMO
+<div align="center"><img src="https://github.com/SNinjo/Chatroom/blob/main/img/chatroom.gif" width="600" height="300"/></div>
+
 ## Operating Example
-open the server and let the client connect
-![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts01.png)
+* open the server and let the client connect
+<img src="https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts01.png" width="600" height="300"/>
   
-enter the messages or let the client disconnect
-![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts02.png)
+* enter the messages or let the client disconnect
+<img src="https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts02.png" width="600" height="300"/>
   
-this is the result
-![image](https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts03.png)
+* this is the result
+<img src="https://github.com/SNinjo/Chatroom/blob/main/img/flowcharts03.png" width="600" height="300"/>
+
 
 ## Installation
 
